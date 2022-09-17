@@ -20,7 +20,7 @@ var FormView = {
       roomname: null
     };
 
-    console.log(Messages._data);
+    console.log($(this));
 
     Parse.create(message);
     // TODO: Currently, this is all handleSubmit does.
