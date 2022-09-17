@@ -32,20 +32,5 @@ var Parse = {
       }
     });
   }
-<<<<<<< HEAD
 
 };
-
-/*
-// example: //
-
-$.ajax({
-  success: function(data) {
-    console.log(5);
-  }
-})
-
-*/
-=======
-};
->>>>>>> c193da81eee66a0b4801e3b818b0f7e0b73271e5

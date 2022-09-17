@@ -14,17 +14,11 @@ var MessageView = {
     `)
 
 };
-<<<<<<< HEAD
 
 
 
 /*
 
-
-=======
-/*
-
->>>>>>> c193da81eee66a0b4801e3b818b0f7e0b73271e5
 render: function(obj) {
   return $(`<div>${obj.username}</div>`)
 }
@@ -38,10 +32,4 @@ render: function(username) {
     `);
   }
 
-<<<<<<< HEAD
-
-
   */
-=======
-*/
->>>>>>> c193da81eee66a0b4801e3b818b0f7e0b73271e5
