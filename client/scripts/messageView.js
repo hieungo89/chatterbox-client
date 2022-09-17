@@ -15,3 +15,25 @@ var MessageView = {
     `)
 
 };
+
+
+
+/*
+
+
+render: function(obj) {
+  return $(`<div>${obj.username}</div>`)
+}
+
+render: function(username) {
+    return $(`
+      <div class="chat">
+        <div class="username">${username}</div>
+        <div></div>
+      </div>
+    `);
+  }
+
+
+
+  */
